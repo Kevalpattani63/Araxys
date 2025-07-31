@@ -7,6 +7,7 @@
  ## July 23rd -> 4.5
 the project finally took off. I had been thinking about building my own CNC for a while, but that day I finally opened Fusion 360 and got serious. I spent about 4.5 hours sketching the basic frame, trying to figure out what kind of working area would be realistic for my desk and budget. I kept it to a compact footprint but aimed for a usable cutting area that could handle PCBs and small aluminium parts. I kept checking measurements and adjusting the spacing of the linear rails and the gantry system. The Y-axis travel gave me a bit of a headache because I didn’t want the spindle to crash into the front plate. I kept rotating the model in Fusion from every angle and finally settled on a frame size that felt balanced. I designed the base to use 2040 extrusions for better stiffness and added placeholders for the linear guides.
 
+<img width="623" height="518" alt="image" src="https://github.com/user-attachments/assets/eeb67890-6e16-4628-93f0-aade7625a2d2" />
 
 
 <img width="1015" height="712" alt="image" src="https://github.com/user-attachments/assets/2e5cce70-bc08-420a-9136-089a82913e61" />
