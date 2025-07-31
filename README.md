@@ -17,6 +17,15 @@ The final design took several nights of tweaking, especially to get the Z-axis r
 
 I kept every part source India-friendly, from the aluminium profiles and screws to the spindle and controller. No Robu.in or AliExpress, because I know how annoying customs and shipping can get. Araxys was made keeping affordability and practicality in mind, while still not compromising on quality. The cost came under 350 USD which is pretty tight for a CNC machine, especially with a rigid metal frame.
 
+
+
+<img width="570" height="539" alt="image" src="https://github.com/user-attachments/assets/047ab0cc-5df1-491f-a073-be4c9ba33f2c" />
+
+
+
+
+
+
 To build Araxys, I sourced aluminium 2020 and 2040 extrusion profiles for the main structure and gantry arms, which cost around 62 USD or ₹5200. The motion system includes three NEMA 17 stepper motors priced at about 21 USD or ₹1800 total, combined with GT2 timing pulleys, belts, and idlers for another 10 USD or ₹850. The Z-axis lead screw and nut assembly came for around 8 USD or ₹680. For the spindle, I chose a 500W brushed DC spindle with ER11 chuck, which cost about 43 USD or ₹3600, along with the spindle mount and power supply unit for another 18 USD or ₹1500. The CNC shield, A4988 stepper drivers, and Arduino Uno controller setup was around 16 USD or ₹1350. I added limit switches, couplers, wiring, and connectors, which summed up to approximately 11 USD or ₹930. The MDF base plate, 3D printed mounts, and extra fasteners and brackets added about 17 USD or ₹1400 to the total. Including a decent quality 24V power supply and USB cable for control, I managed to keep the full build just under 340 USD, which translates to roughly ₹28,000 INR at current exchange rates.
 
 Every part is carefully selected to be easy to replace, upgrade, or fix without needing exotic tools or suppliers. Araxys is not just a project, it’s a platform that I can keep building on :)
