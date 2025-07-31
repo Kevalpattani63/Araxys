@@ -1,6 +1,6 @@
 
 ## Project Name: Araxys CNC Mill
-### Total Time Spent: 41.5 hours 
+### Total Time Spent: 34.5 hours 
 ### Author: Keval
 
 ---
@@ -91,7 +91,7 @@ I had a long CAD session again, for about 5 hours. I designed a small control pa
 <img width="817" height="635" alt="image" src="https://github.com/user-attachments/assets/cdb694dc-62d2-4fab-9a25-b8e1ea63c1d7" />
 
 
-Right now Araxys is fully designed and almost ready for the next build phase. I just need to wait for some final parts to arrive and then I can start assembling again. This machine already feels like something I can use daily for PCB prototyping, engraving and light aluminium work. From a simple Fusion sketch to a full CAD assembly, this journey has been over 41.5 hours of pure learning, problem solving and designing. Honestly, there’s no better feeling than seeing a machine come to life inside your head first, even before it touches the workbench. Araxys is just getting started.
+Right now Araxys is fully designed and almost ready for the next build phase. I just need to wait for some final parts to arrive and then I can start assembling again. This machine already feels like something I can use daily for PCB prototyping, engraving and light aluminium work. From a simple Fusion sketch to a full CAD assembly, this journey has been over 34.5 hours of pure learning, problem solving and designing. Honestly, there’s no better feeling than seeing a machine come to life inside your head first, even before it touches the workbench. Araxys is just getting started.
 
 
 <img width="726" height="512" alt="image" src="https://github.com/user-attachments/assets/ddf602d1-22e5-4766-8c07-ccf95f2754bc" />
