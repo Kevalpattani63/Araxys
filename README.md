@@ -34,19 +34,18 @@ Every part is carefully selected to be easy to replace, upgrade, or fix without 
 
 ## BOM
 
-| Component                    | Description                                    | Qty   |Price (USD)  | Price (INR) |
-| ---------------------------- | ---------------------------------------------- | ----- |------------ | ----------- |
-| Aluminium Extrusions         | 2020 and 2040 profiles for frame and gantry    | 1 set | $62.00      | ₹5200       |
-| Stepper Motors               | NEMA 17 motors for X, Y, Z axes                | 3     | $21.00      | ₹1800       |
-| GT2 Belts and Pulleys        | Includes pulleys, belts, idlers                | 1 set | $10.00      | ₹850        |
-| Z-Axis Lead Screw            | Trapezoidal screw + brass nut                  | 1     | $8.00       | ₹680        |
-| Spindle Motor                | 500W spindle with ER11 chuck                   | 1     | $43.00      | ₹3600       |
-| Spindle Mount + PSU          | Aluminium holder and 48V PSU                   | 1 set | $18.00      | ₹1500       |
-| Control Electronics          | Arduino Uno + CNC Shield + 3x A4988            | 1 set | $16.00      | ₹1350       |
-| Wiring and Switches          | Endstops, wires, terminals, connectors         | 1 set | $11.00      | ₹930        |
-| MDF Base + Fasteners         | Base board, T-nuts, brackets, 3D printed parts | 1 set | $17.00      | ₹1400       |
-| 24V Power Supply + USB Cable | For controller and communication               | 1     | $11.00      | ₹940        |
-| **Total**                    |                                                |       | **$217.00** | **₹27,250** |
-
+| **Component**         | **Description**                                | **Qty** | **Price (USD)** | **Price (INR)** | **Supplier**       |
+| --------------------- | ---------------------------------------------- | ------- | --------------- | --------------- | ------------------ |
+| Aluminium Extrusions  | 2020 and 2040 profiles for frame and gantry    | 1 set   | \$62.00         | ₹5200           | 3D Printronics     |
+| Stepper Motors        | NEMA 17 motors for X, Y, Z axes                | 3       | \$21.00         | ₹1800           | Robocraze          |
+| GT2 Belts and Pulleys | Includes pulleys, belts, idlers                | 1 set   | \$10.00         | ₹850            | Amazon             |
+| Z-Axis Lead Screw     | Trapezoidal screw + brass nut                  | 1       | \$8.00          | ₹680            | Amazon             |
+| Spindle Motor         | 500W spindle with ER11 chuck                   | 1       | \$43.00         | ₹3600           | Ampere Electronics |
+| Spindle Mount + PSU   | Aluminium holder and 48V PSU                   | 1 set   | \$18.00         | ₹1500           | Robokits           |
+| Control Electronics   | Arduino Uno + CNC Shield + 3x A4988            | 1 set   | \$16.00         | ₹1350           | Robocraze          |
+| Wiring and Switches   | Endstops, wires, terminals, connectors         | 1 set   | \$11.00         | ₹930            | Amazon             |
+| MDF Base + Fasteners  | Base board, T-nuts, brackets, 3D printed parts | 1 set   | \$7.75          | ₹679            | Papericious.in     |
+| 24V Power Supply      | For controller and communication               | 1       | \$11.00         | ₹940            | Robocraze          |
+| **Total**             |                                                |         | **\$199.80**    | **₹17,529**     |                    |
 
 
