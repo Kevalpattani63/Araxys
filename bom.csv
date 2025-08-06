@@ -1,12 +1,13 @@
-Component,Description,Qty,Price (USD),Price (INR),Supplier
-Aluminium Extrusions,2020 and 2040 profiles for frame and gantry,1 set,$62.00,5200,Amazon
-Stepper Motors,"NEMA 17 motors for X, Y, Z axes",3,$21.00,1800,Robocraze
-GT2 Belts and Pulleys,"Includes pulleys, belts, idlers",1 set,$10.00,850,Amazon
-Z-Axis Lead Screw,Trapezoidal screw + brass nut,1,$8.00,680,Amazon
-Spindle Motor,500W spindle with ER11 chuck,1,$43.00,3600,Amazon
-Spindle Mount + PSU,Aluminium holder and 48V PSU,1 set,$18.00,1500,Robocraze
-Control Electronics,Arduino Uno + CNC Shield + 3x A4988,1 set,$16.00,1350,Robocraze
-Wiring and Switches,"Endstops, wires, terminals, connectors",1 set,$11.00,930,Amazon
-MDF Base + Fasteners,"Base board, T-nuts, brackets, 3D printed parts",1 set,$17.00,1400,Amazon
-24V Power Supply ,For controller and communication,1,$11.00,940,Robocraze
-Total,,,$217.00,27250,
+Component,Description,Qty,Price (USD),Price (INR),Supplier,link
+Aluminium Extrusions,2020 and 2040 profiles for frame and gantry,1 set,$62.00,5200,Amazon,
+Stepper Motors,"NEMA 17 motors for X, Y, Z axes",3,$21.00,1800,Robocraze,https://robocraze.com/products/17hs8401s-nema17-stepper-motor-48mm?variant=40193679687833&srsltid=AfmBOopRk2dkA1vk6drQkA0GyaZ2Giu0hgfiexncyNk_3dJX6xtqAWJ8REw&gclid=CjwKCAjw-svEBhB6EiwAEzSdrqHvz7aJM1-vSJUY1MF7Y1Atm_q2kwT8ByYKybPaLv1XZQN5LRbFtxoC2x4QAvD_BwE
+GT2 Belts and Pulleys,"Includes pulleys, belts, idlers",1 set,$10.00,850,Amazon,
+Z-Axis Lead Screw,Trapezoidal screw + brass nut,1,$8.00,680,Amazon,
+Spindle Motor,500W spindle with ER11 chuck,1,$43.00,3600,Amazon,
+Spindle Mount + PSU,Aluminium holder and 48V PSU,1 set,$18.00,1500,Robocraze,
+Control Electronics,Arduino Uno + CNC Shield + 3x A4988,1 set,$16.00,1350,Robocraze,
+Wiring and Switches,"Endstops, wires, terminals, connectors",1 set,$11.00,930,Amazon,
+MDF Base + Fasteners,"Base board, T-nuts, brackets, 3D printed parts",1 set,$17.00,1400,Amazon,
+24V Power Supply ,For controller and communication,1,$11.00,940,Robocraze,
+Total,,,$217.00,27250,,
+
