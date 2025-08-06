@@ -1,7 +1,7 @@
 Component,Description,Qty,Price (USD),Price (INR),Supplier,link
 Aluminium Extrusions,2020 and 2040 profiles for frame and gantry,1 set,$62.00,5200,3d printronics.in,https://www.3dprintronics.com/products/v-slot-aluminium-extrusion-2040-silver?srsltid=AfmBOop20Yrc_b2Foc9ijkQ1OjBQn_EFNWxpr1bPsC7ms2XNThYIx53B
 Stepper Motors,"NEMA 17 motors for X, Y, Z axes",3,$21.00,1800,Robocraze,https://robocraze.com/products/17hs8401s-nema17-stepper-motor-48mm?variant=40193679687833&srsltid=AfmBOopRk2dkA1vk6drQkA0GyaZ2Giu0hgfiexncyNk_3dJX6xtqAWJ8REw&gclid=CjwKCAjw-svEBhB6EiwAEzSdrqHvz7aJM1-vSJUY1MF7Y1Atm_q2kwT8ByYKybPaLv1XZQN5LRbFtxoC2x4QAvD_BwE
-GT2 Belts and Pulleys,"Includes pulleys, belts, idlers",1 set,$10.00,850,Amazon,
+GT2 Belts and Pulleys,"Includes pulleys, belts, idlers",1 set,$10.00,850,Amazon,https://www.amazon.in/Xsentuals-meter-Timing-Teeth-Pulley/dp/B08CXS34YN/ref=sr_1_5?adgrpid=61795263027&dib=eyJ2IjoiMSJ9.HKEozodmET4tJMYzTo6hIKa6BtlH70f4l2d0lfccxLVZB-_gI9uJw8AsVr77CRXtWr6PEho9LvcEMHmycZuxqwK2vaU-cLmWLjnX2-qUB9JXCw5RW92cJ3Y9odOFbS5oA21wif7tErUZkC8HV9w4Xgo4YejuiB4dM3iLHNx8w2JE4adl8y6n9cEMQP9uavXAPokh2usgKY5sCHHoDNdtBxIIux9XScmmIFT04qim_UAX9Gp2vC-V4hP7zg2wLBaApfVzdv3TH0aTZzSj-9sSxgSRAJca4aKgk47-6P4cD98.pbMyrsZsWc3ntbMHH9rJoEhBqyQyVVj3jWPltmCQrlU&dib_tag=se&ext_vrnc=hi&hvadid=664910758689&hvdev=c&hvlocphy=9062029&hvnetw=g&hvqmt=b&hvrand=4175460289027046208&hvtargid=kwd-294958337216&hydadcr=26458_2762321&keywords=gt2+timing+belt&mcid=50bd9dcbe6703275835d848b75a8c680&qid=1754464517&sr=8-5
 Z-Axis Lead Screw,Trapezoidal screw + brass nut,1,$8.00,680,Amazon,
 Spindle Motor,500W spindle with ER11 chuck,1,$43.00,3600,Amazon,
 Spindle Mount + PSU,Aluminium holder and 48V PSU,1 set,$18.00,1500,Robocraze,
@@ -10,5 +10,6 @@ Wiring and Switches,"Endstops, wires, terminals, connectors",1 set,$11.00,930,Am
 MDF Base + Fasteners,"Base board, T-nuts, brackets, 3D printed parts",1 set,$17.00,1400,Amazon,
 24V Power Supply ,For controller and communication,1,$11.00,940,Robocraze,
 Total,,,$217.00,27250,,
+
 
 
